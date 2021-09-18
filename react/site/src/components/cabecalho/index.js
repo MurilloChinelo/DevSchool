@@ -8,10 +8,10 @@ export default function Index() {
             <div class="reader-right-box">
                 <div class="box-user"> 
                     <div class="user-image">
-                        <img src="/assets/images/usuario.jpeg" alt="" />
-                        <div class="absolute">3</div>
+                        <img src="https://havaianas.com.br/on/demandware.static/-/Sites-havaianas-master/default/dw05aa76bc/product-images/4001280_0031_HAVAIANAS%20TRADICIONAL_C.png" alt="" />
+                        <div class="absolute">2</div>
                     </div>
-                    <div class="user-name"> Olá, <b>Bruno de Oliveira</b> </div>
+                    <div class="user-name"> Olá, <b>Chinelo</b> </div>
                 </div>
                 
                 <div class="box-image">
